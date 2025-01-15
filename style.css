@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(to right, rgb(255,255,255), rgb(105,179,232));
+}
+
+.profile-header {
+    text-align:center;
+    margin-bottom: 30px;
+}
